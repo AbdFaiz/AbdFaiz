@@ -2,7 +2,7 @@
   <img height="200"
        src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdFaiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="200"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdFaiz&layout=compact&theme=dracula">
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdFaiz&layout=compact&theme=radical&hide=swift,c%23">
 </p>
 
 <!--
