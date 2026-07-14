@@ -1,22 +1,7 @@
 <p align="center">
-  <img height="200"
-       src="https://github-stats-extended.vercel.app/api?username=AbdFaiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="200"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdFaiz&layout=compact&theme=radical&hide=swift,c%23">
-  [![Faiz's GitHub stats](https://github-stats-extended.vercel.app/api?username=AbdFaiz)](https://github.com/stats-organization/github-stats-extended)
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=AbdFaiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" />
+  
 </p>
-
-<!--
-**AbdFaiz/AbdFaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdFaiz&layout=compact&theme=dracula" />
+</p>
